@@ -1,0 +1,14 @@
+# ninja log v5
+2	17226	1734677164789625813	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/subtraction/subtraction_cuda_kernel.o	ddc6a795c3044b2d
+0	17289	1734677164853628629	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/aggregation/aggregation_cuda_kernel.o	4913be9e5fe5908b
+1	17307	1734677164873629510	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/interpolation/interpolation_cuda_kernel.o	44250c0d48aa16f9
+0	17359	1734677164925631798	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/grouping/grouping_cuda_kernel.o	1f678c16fd1bfbfe
+1	17372	1734677164933632149	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/pointops_api.o	76cf4ec640a08be2
+1	17398	1734677164965633557	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/knnquery/knnquery_cuda_kernel.o	1b68819825c75e9
+1	17413	1734677164981634262	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/sampling/sampling_cuda_kernel.o	3dcf25bcb8e2fa6a
+6	7865	1734677214167772722	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/interpolation/interpolation_cuda.o	a15255640dcc6698
+6	7901	1734677214203774269	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/aggregation/aggregation_cuda.o	1f16b70f72ee9213
+7	7934	1734677214239775815	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/sampling/sampling_cuda.o	5290d62a644a37fe
+7	7954	1734677214259776675	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/knnquery/knnquery_cuda.o	b2dec3d45944e99f
+7	7968	1734677214271777191	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/subtraction/subtraction_cuda.o	d9599af88e662a5b
+6	8074	1734677214379781834	/home/user/point-transformer-master/lib/pointops/build/temp.linux-x86_64-cpython-39/src/grouping/grouping_cuda.o	e63335671e8c9df2

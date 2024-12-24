@@ -1,0 +1,14 @@
+# ninja log v5
+1	12804	1734678924495607552	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/subtraction/subtraction_cuda.o	34983911dc9e748e
+0	13264	1734678924955614897	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/aggregation/aggregation_cuda.o	94dd576866907ca0
+0	13621	1734678925311620581	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/grouping/grouping_cuda.o	a87e5d2e4161e4cd
+1	16068	1734678927759659647	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/sampling/sampling_cuda.o	73b2c7505f5a2d10
+1	16531	1734678928223667048	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/knnquery/knnquery_cuda.o	7fd2e7c4c029a69b
+0	16575	1734678928267667749	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/interpolation/interpolation_cuda.o	597cfb1141d7dd23
+1	18907	1734678930603704992	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/knnquery/knnquery_cuda_kernel.o	db03ece3467cedc1
+0	20058	1734678931751723283	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/aggregation/aggregation_cuda_kernel.o	51e07502d00a0598
+2	20073	1734678931767723538	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/subtraction/subtraction_cuda_kernel.o	f826020bc173e86b
+0	20678	1734678932375733223	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/grouping/grouping_cuda_kernel.o	6c15f89e28753aee
+1	21035	1734678932731738892	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/sampling/sampling_cuda_kernel.o	aad6fa0d121e2543
+0	22623	1734678934319764176	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/interpolation/interpolation_cuda_kernel.o	b6f980909dc80140
+1	23648	1734678935335780345	/home/egbert/Documents/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/pointops_api.o	c58a6306913a13de
